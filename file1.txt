@@ -1,7 +1,4 @@
-hello ruchi
-<<<<<<< HEAD
+my name is ruchi
 i'm from anand
-=======
-hii
 
->>>>>>> first_branch
+
