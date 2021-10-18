@@ -1,2 +1,7 @@
 hello ruchi
+<<<<<<< HEAD
 i'm from anand
+=======
+hii
+
+>>>>>>> first_branch
