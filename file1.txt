@@ -6,6 +6,9 @@ hello ruchi
 <<<<<<< HEAD
 i'm from anand.
 =======
+<<<<<<< HEAD
+>>>>>>> 3690b5c... file1_i'm from anand
+=======
 >>>>>>> 3690b5c... file1_i'm from anand
 
 >>>>>>> 5836fc3... f1 edited
