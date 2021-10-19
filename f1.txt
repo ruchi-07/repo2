@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello world!
+=======
+hello ruchi
+>>>>>>> 6ab90b3... f1 changed
