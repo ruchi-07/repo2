@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hello world!
-abc
-=======
-Hello ruchi!
->>>>>>> newb
